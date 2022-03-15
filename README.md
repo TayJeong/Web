@@ -4,4 +4,8 @@
 ***oss개발*** 수업을 듣고 있습니다.
 
 ## writing
-
+###Code
+```c
+int a = 1;
+printf("a");
+```
