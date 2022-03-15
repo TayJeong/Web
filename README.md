@@ -1,5 +1,5 @@
 # maniaccent
-## hello
+## 소개
 안녕하세요 저는 **정소영**입니다
 ***oss개발*** 수업을 듣고 있습니다.
 
@@ -9,9 +9,15 @@
 //c사용
 int a = 1;
 printf("a");
+
+
 ```
 ```python
 ##python사용
 float b = 34.3
 print(b)
 ```
+
+## Tables
+이름 | 학번
+----|----
