@@ -11,7 +11,7 @@ int a = 1;
 printf("a");
 ```
 ```python
-//python사용
+##python사용
 float b = 34.3
 print(b)
 ```
